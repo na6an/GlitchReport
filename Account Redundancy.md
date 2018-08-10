@@ -16,7 +16,7 @@ I contacted AWS customer service and received following letter.
   <img src="https://github.com/na6an/GlitchReport/blob/master/img/aws-inquiry.png" alt="alt text" width="800" height="320"> 
 
 ## Root Cause:
-According to this e-mail, I have two Amazon.com accounts with same e-mail.
+According to this e-mail, I have two Amazon.com accounts with same e-mail.  
 I soon realized what might have caused the problem.
 
   <img src="https://github.com/na6an/GlitchReport/blob/master/img/amz-diagram.png" alt="alt text" width="640" height="250">  
