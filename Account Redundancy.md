@@ -37,3 +37,21 @@ I have business prime membership and my account was all reset after verifying wi
 
 Then, I had to contact Amazon.com customer service to restore the access to the account.  
 Now I came back to square one, still having the issue of page loop from duplicate account.  
+
+## Possible Solution:
+Fortunately, I found a workaround.  
+One obvious solution from user is to keep different e-mails for AWS and Amazon.com by switching e-mail of either service.  
+I actually decided to use different passwords rather than using different e-mails.   
+In case I fall into page loop from entering Amazon.com password to AWS login by mistake,   
+I have to clear the cookie of the browser because AWS doesn’t provide logout for some reason.  
+
+From Amazon’s side, there are two possible ways to solve this problem.  
+One is to warn the user the same e-mail is already in use in case of attempting to change the e-mail.  
+However, this is only a temporary measure that might cause another unforeseen problem.  
+
+More fundamental solution is to change the database structure,  
+so that either to embrace the e-mail redundancy or treat e-mail as an unique entity instead one of attributes.   
+(Read here for the DB entity concept:
+[https://www.ibm.com/support/knowledgecenter/en/SSWSR9_11.6.0/com.ibm.mdmhs.overview.doc/entityconcepts.html](https://www.ibm.com/support/knowledgecenter/en/SSWSR9_11.6.0/com.ibm.mdmhs.overview.doc/entityconcepts.html))  
+Of course, this could be very costly for service size as big as Amazon.  
+Thus, some cost benefit analysis might be needed and reflect when there is a major upgrade in the system.
