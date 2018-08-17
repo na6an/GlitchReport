@@ -1,4 +1,4 @@
-# Account Redundancy
+# Login Conflict
 ### Related service providers: Amazon, Verizon  
 ## Background:
 It was my first time using AWS earlier this year.  
