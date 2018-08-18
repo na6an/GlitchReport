@@ -12,16 +12,19 @@ However, that trip ended up to be a nightmare.
 All I do when I ride for such long hours is either sleeping or use smartphone/tablet to kill time.  
 Thus, an extra method to charge devices was important to me.  
 Many bus services including MegaBus offer power outlets like this in many seats.  
-http://perceptivetravel.com/blog/wp-content/Megabus-seat-plug-640x358.jpg
+  <img src="http://perceptivetravel.com/blog/wp-content/Megabus-seat-plug-640x358.jpg" alt="alt text" width="320" height="240">  
+image source : http://perceptivetravel.com/blog/wp-content/Megabus-seat-plug-640x358.jpg
 
 I was plugging this usb wall adapter to charge my devices.
 https://www.amazon.com/gp/product/B00NA9JQLM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1#customerReviews
 
-After killing several hours, when the bus was probably about three or four hours left to Atlanta,  
+When the bus was probably about three or four hours left to Atlanta,  
 I noticed there was a small spark has flashed around my cell phone connector, shutting the cell off.  
 I was astonished, quickly detached the connector from my devices.  
 Fortunately, the phone was still alive, worked fine after a boot up, but the adapter no longer worked  
-and the metal pin portion of the connector cable was burnt like this.
+and the metal pin portion of the connector cable was burnt like this.  
+  <img src="https://o2uk.i.lithium.com/t5/image/serverpage/image-id/12218i17CA8A3321E8589E/image-size/original?v=mpbl-1&px=-1" alt="alt text" width="320" height="240">  
+image source : https://o2uk.i.lithium.com/t5/image/serverpage/image-id/12218i17CA8A3321E8589E/image-size/original?v=mpbl-1&px=-1
 
 Worse part was, the bus has been malfunctioning since after; 
 speed of the bus was slow down to about 20 mph and A/C began not working.
