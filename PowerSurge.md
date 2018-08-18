@@ -16,7 +16,7 @@ Many bus services including MegaBus offer power outlets like this in many seats.
 image source : http://perceptivetravel.com/blog/wp-content/Megabus-seat-plug-640x358.jpg
 
 I was plugging this usb wall adapter to charge my devices.
-https://www.amazon.com/gp/product/B00NA9JQLM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1#customerReviews
+https://www.amazon.com/gp/product/B00NA9JQLM
 
 When the bus was probably about three or four hours left to Atlanta,  
 I noticed there was a small spark has flashed around my cell phone connector, shutting the cell off.  
