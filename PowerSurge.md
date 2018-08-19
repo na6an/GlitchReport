@@ -34,7 +34,7 @@ Eventually, the bus was side stopped at the highway for over two hours until Meg
   <img src="https://github.com/na6an/GlitchReport/blob/master/img/mbus-advisory.PNG" alt="alt text" width="600" height="200">   
   <img src="https://github.com/na6an/GlitchReport/blob/master/img/mbus-ticket.PNG" alt="alt text" width="520" height="140">   
 
-The arrival time was 9:40 PM according to this receipt, but it was almost 3 AM when we arrived.  
+The original arrival time was 9:40 PM according to this receipt, but it was almost 3 AM when we arrived.  
 A few days later, MegaBus has issued a full refund for the trip.
 
 ## Root Cause:
