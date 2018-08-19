@@ -29,7 +29,7 @@ image source : https://o2uk.i.lithium.com/t5/image/serverpage/image-id/12218i17C
 Worse part was, the bus has been malfunctioning since after;  
 speed of the bus was slow down to about 20 mph and A/C began not working.  
 The bus driver tried another 2~30 minutes before declaring unable to drive.  
-Eventually, the bus was side stopped at the highway for over 3 hours until MegaBus dispatched another bus.  
+Eventually, the bus was side stopped at the highway for over two hours until MegaBus dispatched another bus.  
 
   <img src="https://github.com/na6an/GlitchReport/blob/master/img/mbus-advisory.PNG" alt="alt text" width="600" height="200">   
   <img src="https://github.com/na6an/GlitchReport/blob/master/img/mbus-ticket.PNG" alt="alt text" width="520" height="140">   
