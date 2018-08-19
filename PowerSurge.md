@@ -38,7 +38,7 @@ The original arrival time was 9:40 PM according to this receipt, but it was almo
 A few days later, MegaBus has issued a full refund for the trip.
 
 ## Root Cause:
-It is pretty clear power surge was the likely cause of the bus breakdown.  
+It is pretty clear power surge from shorted circuit was the likely cause of the bus breakdown.  
 The surge probably fried up fuse or spark plug of the bus. Exact source of the surge, however, isn’t really clear.  
 
 Perhaps, my adapter was responsible for the breakdown.  
