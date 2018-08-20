@@ -37,6 +37,31 @@ Eventually, the bus was side stopped at the highway for over two hours until Meg
 The original arrival time was 9:40 PM according to this receipt, but it was almost 3 AM when we arrived.  
 A few days later, MegaBus has issued a full refund for the trip.
 
+## Typical Vehicle Electrical System:
+Now, I cannot go into too much detail because I’m just an automotive engineer interested in electronic devices,  
+not really an electrical expert with EE degree or with technician certificate.  
+The following diagram is just a rough schematic diagram to explain how electrical system in a vehicle is wired.   
+This is not a formal circuit diagram and rather to describe simply what kind of components are wired together.  
+
+Battery is always the starting place in a vehicle. (Indigo Blue)  
+When the vehicle is turned off, it slowly discharges like every other battery does.  
+That’s why you have to jump start the battery when a vehicle was parked for weeks and runs out of juice.  
+When a vehicle is on, engine recharges the battery with its generator.  
+
+As you can see, many different electrical subsystems are wired to the battery either in series or parallel.   
+Of course, specific circuit design varies by vehicle models.  
+
+One common thing about vehicle electrical system is the fuse box. (Green)  
+Fuse box is simple where the fuses of a vehicle are located.  
+A fuse is basically a shield that mitigates the electrical damage by shutting the electrical flow off.  
+It helps repair by breaking itself and allowing fuse replacement as an easy repair.  
+Without a fuse, a serious teardown is required to identify a source of damage.  
+
+Obviously, not every car has a power outlet. (Orange)  
+(Many cars provide electricity through a cigar lighter though)  
+In this case, however, there is not just one but many outlets in the bus.
+
+
 ## Root Cause:
 It is pretty clear power surge from shorted circuit was the likely cause of the bus breakdown.  
 The surge probably fried up fuse or spark plug of the bus. Exact source of the surge, however, isn’t really clear.  
@@ -46,4 +71,9 @@ In fact, there are some Amazon reviews say the adapter broke devices connected t
 Or maybe it was simply the bus failure - spark could be just a symptom.  
 Or maybe someone else’s device could be the cause.  
 
-Whatever the reason was, it’s likely the electrical system of the bus was not design protected against surge.
+Whatever the reason was, it’s likely the electrical system of the bus was not design protected against surge.  
+More specifically, it probably failed balancing the power load.  
+We simply don’t know how much power would be drawn by passengers or if any of devices has short.  
+See following experiment for what happens if power load is imbalanced.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HsSlQnGCvdg?start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
