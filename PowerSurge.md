@@ -43,6 +43,8 @@ not really an electrical expert with EE degree or with technician certificate.
 The following diagram is just a rough schematic diagram to explain how electrical system in a vehicle is wired.   
 This is not a formal circuit diagram and rather to describe simply what kind of components are wired together.  
 
+  <img src="https://github.com/na6an/GlitchReport/blob/master/img/mbus-diagram.png" alt="alt text" width="720" height="400">
+
 Battery is always the starting place in a vehicle. (Indigo Blue)  
 When the vehicle is turned off, it slowly discharges like every other battery does.  
 That’s why you have to jump start the battery when a vehicle was parked for weeks and runs out of juice.  
