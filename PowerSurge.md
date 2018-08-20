@@ -76,4 +76,4 @@ More specifically, it probably failed balancing the power load.
 We simply don’t know how much power would be drawn by passengers or if any of devices has short.  
 See following experiment for what happens if power load is imbalanced.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HsSlQnGCvdg?start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![IMAGE](http://img.youtube.com/vi/HsSlQnGCvdg/0.jpg)](http://www.youtube.com/watch?v=HsSlQnGCvdg?start=60)
